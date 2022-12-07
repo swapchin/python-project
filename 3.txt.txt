@@ -1,1 +1,4 @@
-i m in file 3
+i m in file 3,
+push pull confilict
+add new one
+pushhhhhhhhhhhhhhhhhhh
